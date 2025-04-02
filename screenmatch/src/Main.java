@@ -11,6 +11,7 @@ public class Main {
         favorito.setDuracaoEmMinutos(135);
         favorito.setIncluidoNoPlano(true);
 
+
         favorito.exibeFichaTecnica();
         favorito.avalia(9);
         favorito.avalia(8);
