@@ -9,6 +9,6 @@ public class Main {
         meuFilme.duracaoEmMinutos =    180;
 
 
-
+        System.out.println("teste");
     }
 }
